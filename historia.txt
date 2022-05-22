@@ -2,5 +2,6 @@ Hola mi nombre es Mario Alberto Martinez Vazquez,
 
 tengo 23 años de edad, acutalmente soy estudiante de ingenieria
 
-en software & redes en la universidad UNITEC.
+en software & redes en la universidad UNITEC, me apaciona el desarrollo web
 
+ya que tiene tiene conocimientos en html, css, javascript y node.
