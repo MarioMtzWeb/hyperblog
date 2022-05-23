@@ -22,6 +22,10 @@ body {
     background-color: purple;
     color: #fff;
 }
+.header h2 {
+    font-weight: bolder;
+    font-size: 1.8rem;
+}
 .post {
     padding: 1rem;
 }
