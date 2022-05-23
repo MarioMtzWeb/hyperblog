@@ -2,6 +2,9 @@ html {
     box-sizing: border-box;
     font-family: sans-serif;
 }
+h2, h3 {
+    margin: 0;
+}
 body {
     margin: 0;
 }
