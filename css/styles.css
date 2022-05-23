@@ -2,4 +2,12 @@ html {
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body {
+    margin: 0;
+}
+.container {
+    margin: 1rem;
+    padding: 1rem;
+    border: thin solid #000;
+}
 
