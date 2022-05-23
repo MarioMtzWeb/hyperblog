@@ -2,12 +2,26 @@ html {
     box-sizing: border-box;
     font-family: sans-serif;
 }
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+h2 {
+    margin: 0;
+}
 body {
     margin: 0;
 }
 .container {
     margin: 1rem;
-    padding: 1rem;
     border: thin solid #000;
 }
-
+.header {
+    padding: 1rem;
+    background-color: purple;
+    color: #fff;
+}
+.post {
+    padding: 1rem;
+}
