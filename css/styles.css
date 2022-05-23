@@ -10,7 +10,17 @@ body {
 }
 .container {
     margin: 1rem;
-    padding: 1rem;
     border: thin solid #000;
 }
-
+.header {
+    padding: 1rem;
+    background-color: purple;
+    color: #fff;
+}
+.header h2 {
+    font-weight: bolder;
+    font-size: 1.8rem;
+}
+.post {
+    padding: 1rem;
+}
